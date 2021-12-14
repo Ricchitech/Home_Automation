@@ -1,0 +1,15 @@
+ESP32 Dev Board
+Hi-Link 5v Power Supply(5W) 
+Terminal Connector 
+5v Relay 
+Diode IN4007 
+Transistor BC547
+Resistor 330Ω 1/4W
+Resistor 220kΩ 1/4W 
+Resistor 2.2Ω 1/2W 
+Resistor 10kΩ 1/4W 
+Slide Switch
+Male Connector
+Female Connector
+Capacitor 2.2uF 250v
+Capacitor 3.3uF 250v
